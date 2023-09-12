@@ -20,8 +20,7 @@ Technology is ever-evolving, and I'm committed to staying up-to-date with the la
 If you're looking to build a reliable and scalable backend solution with Python or if you just want to discuss tech and share ideas, feel free to reach out. I'm always excited to collaborate on exciting projects and connect with like-minded developers!
 
 - 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on Backend Development
 
 📧 Email: ap892624@gmail.com
 🌐 GitHub: github.com/ayushpl
